@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: #07111f;
+  color: #ffffff;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+html { scroll-behavior: smooth; }
+* { box-sizing: border-box; }
